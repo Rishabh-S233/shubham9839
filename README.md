@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham9839&label=Profile%20views&color=0e75b6&style=flat" alt="shubham9839" /> </p>
 
-- 🌱 I’m currently learning **BTech computer science**
+- 🌱 I’m currently pursuing **BTech computer science**
 
 - 📫 How to reach me **kshubham0206@gmail.com**
 
